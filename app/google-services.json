@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566733146508",
+    "firebase_url": "https://radarapp-32b7f.firebaseio.com",
+    "project_id": "radarapp-32b7f",
+    "storage_bucket": "radarapp-32b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566733146508:android:bf25f572cc6fed74",
+        "android_client_info": {
+          "package_name": "com.example.radarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566733146508-2rf3dri35amc7b0sj82f6aahi1dce5mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.radarapp",
+            "certificate_hash": "9e258f6af7fa6b240284bc7e559172bf2f501dfd"
+          }
+        },
+        {
+          "client_id": "566733146508-pi2655h1h1df0nkdqh5km3iqjuahd5r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdpn-6jBI3AaKAwv0DyeNa60dKv9_SJOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566733146508-pi2655h1h1df0nkdqh5km3iqjuahd5r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
