@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "566733146508-2rf3dri35amc7b0sj82f6aahi1dce5mj.apps.googleusercontent.com",
+          "client_id": "566733146508-3t0pm0aep8h66p3tgfv2cb915fpkccd8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.radarapp",
-            "certificate_hash": "9e258f6af7fa6b240284bc7e559172bf2f501dfd"
+            "certificate_hash": "43921170e99bae46c95cf912bce175d794ca76ed"
           }
         },
         {
