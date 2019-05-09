@@ -47,6 +47,8 @@ public class WelcomeScreenActivity extends AppCompatActivity {
 
     }
 
+
+
     @Override
     public void onStart() {
         super.onStart();
